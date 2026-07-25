@@ -1,0 +1,9 @@
+agno
+openai
+fastapi
+google-genai
+pandas
+openpyxl
+python-dotenv
+python-multipart
+uvicorn
